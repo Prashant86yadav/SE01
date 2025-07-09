@@ -1,0 +1,17 @@
+2025-07-07 07:15:29 +1000   13744 execution.flow     INFO     Executing node Final_Version_Node. node run id: 793d8d24-13bd-422c-b1fc-34a1f12bd98d_Final_Version_Node_95680eca-044f-40de-9dfb-416ee1e7a836
+2025-07-07 07:15:29 +1000   13744 execution          ERROR    Node Final_Version_Node in line None failed. Exception: Execution failure in 'Final_Version_Node': (TypeError) beautify_article() got an unexpected keyword argument 'llm_output'.
+Traceback (most recent call last):
+  File "C:\Users\prash_6s\Downloads\SE01\crawl4ai_env\lib\site-packages\promptflow\_core\flow_execution_context.py", line 182, in _invoke_tool_inner
+    return f(**kwargs)
+  File "C:\Users\prash_6s\Downloads\SE01\crawl4ai_env\lib\site-packages\promptflow\tracing\_trace.py", line 545, in wrapped
+    return func(*args, **kwargs)
+TypeError: beautify_article() got an unexpected keyword argument 'llm_output'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\prash_6s\Downloads\SE01\crawl4ai_env\lib\site-packages\promptflow\_core\flow_execution_context.py", line 90, in invoke_tool
+    result = self._invoke_tool_inner(node, f, kwargs)
+  File "C:\Users\prash_6s\Downloads\SE01\crawl4ai_env\lib\site-packages\promptflow\_core\flow_execution_context.py", line 206, in _invoke_tool_inner
+    raise ToolExecutionError(node_name=node_name, module=module) from e
+promptflow._core._errors.ToolExecutionError: Execution failure in 'Final_Version_Node': (TypeError) beautify_article() got an unexpected keyword argument 'llm_output'

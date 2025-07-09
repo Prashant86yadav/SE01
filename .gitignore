@@ -1,0 +1,6 @@
+crawl4ai_env/
+*.dll
+*.lib
+*.exe
+__pycache__/
+*.pyc

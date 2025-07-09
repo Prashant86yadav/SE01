@@ -1,0 +1,8 @@
+2025-07-09 10:14:26 +1000    7936 execution.flow     INFO     Start executing nodes in async mode.
+2025-07-09 10:14:26 +1000    7936 execution.flow     INFO     Start to run 3 nodes with the current event loop.
+2025-07-09 10:14:26 +1000    7936 execution.flow     INFO     Executing node google_search. node run id: 70ee0b05-1519-4666-9aa9-9d65764970ba_google_search_0
+2025-07-09 10:14:30 +1000    7936 execution.flow     INFO     Node google_search completes.
+2025-07-09 10:14:30 +1000    7936 execution.flow     INFO     Executing node beautifulsoup. node run id: 70ee0b05-1519-4666-9aa9-9d65764970ba_beautifulsoup_0
+2025-07-09 10:14:46 +1000    7936 execution.flow     INFO     Node beautifulsoup completes.
+2025-07-09 10:14:46 +1000    7936 execution.flow     INFO     Executing node LLM_Node. node run id: 70ee0b05-1519-4666-9aa9-9d65764970ba_LLM_Node_0
+2025-07-09 10:15:04 +1000    7936 execution.flow     INFO     Node LLM_Node completes.

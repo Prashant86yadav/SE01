@@ -1,0 +1,48 @@
+id: template_standard_flow
+name: Template Standard Flow
+inputs:
+  InputURL:
+    type: string
+    default: vedanta philosphy
+    is_chat_input: false
+outputs:
+  result:
+    type: string
+    reference: ${Final_Version_Node.output}
+nodes:
+- name: google_search
+  type: python
+  source:
+    type: code
+    path: echo.py
+  inputs:
+    query: ${inputs.InputURL}
+  use_variants: false
+- name: beautifulsoup
+  type: python
+  source:
+    type: code
+    path: crwal4ai.py
+  inputs:
+    item: ${google_search.output}
+  use_variants: false
+- name: LLM_Node
+  type: python
+  source:
+    type: code
+    path: LLM_Node.py
+  inputs:
+    input1: ${beautifulsoup.output}
+  use_variants: false
+- name: Final_Version_Node
+  type: python
+  source:
+    type: code
+    path: Final_Version_Node.py
+  inputs:
+    llm_output: ${LLM_Node.output.llm_analysis}
+    user_query: ${inputs.InputURL}
+  use_variants: false
+node_variants: {}
+environment:
+  python_requirements_txt: requirements.txt

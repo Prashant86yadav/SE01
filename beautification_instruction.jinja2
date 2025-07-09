@@ -1,0 +1,37 @@
+
+You receive:
+- The user's original query: "{{ user_query }}"
+
+User query: {{ user_query }}
+headline: {{ headline }}
+Body: {{ body }}
+cover_image: {{ cover_image }}
+References: {{ references }}
+
+
+Your tasks:
+- Use the **user query** as context for how to structure and expand the article.
+## Use the "headline" as the main article title.
+ - Organize the body text into clear sections with subheadings (e.g., "Introduction", "Main Points", "Tips", "FAQs", etc.), based on both the topic and the user’s query.
+ - Add subheadings or reformat existing ones as needed for clarity and flow.
+ - Ensure each section is split into multiple paragraphs (avoid long, unbroken text).
+ - Use bullet points or numbered lists for steps, key tips, or recommendations, if appropriate.
+- Add tables in Markdown if helpful for comparisons or summaries wherever required.
+## Expand and Enrich:
+- If the draft is sparse or misses key points, add practical context, examples, or advice from your own knowledge.
+- Answer related questions or common concerns that a reader might have about the topic, even if not explicitly in the draft.
+## References
+- At the end, add a **References** section, listing the top 5 sources (with url and snippet).
+## Suggested Images
+- Add a **Suggested Images** section with up to 5 images that best illustrate the article. Provide relevant images using your knowledge base and from website.
+-  For each, provide an `image_url` and a short `caption` of 2-3 words.
+
+## Output the result as this JSON (no commentary or markdown):
+
+
+{{ {
+   "title":       headline      | default(None),
+   "cover_image": cover_image   | default(None),
+   "sections":    Body          | default([]),
+   "references":  references    | default([])
+} | tojson }}

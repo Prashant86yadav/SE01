@@ -1,0 +1,3 @@
+2025-07-07 07:11:22 +1000   18528 execution.flow     INFO     Executing node test. node run id: 7c782e1d-9ab5-42d5-8632-9e8470e569cc_test_9ff63938-faf8-4114-9509-f6d69fecd184
+2025-07-07 07:11:22 +1000   18528 execution.flow     INFO     [test in line None (index starts from 0)] stdout> GPT beautification failed: Must provide either the `api_version` argument or the `OPENAI_API_VERSION` environment variable
+2025-07-07 07:11:22 +1000   18528 execution.flow     INFO     Node test completes.

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>PromptFlow LLM Result Viewer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background: #f4f6f8;
+      color: #333;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    input, button {
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    input {
+      width: 300px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      margin-left: 10px;
+      cursor: pointer;
+    }
+
+    .cover-image {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+
+    .section {
+      background: white;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+      border-left: 4px solid #007bff;
+    }
+
+    .references {
+      margin-top: 2rem;
+    }
+
+    .reference-card {
+      background: #e9f0fc;
+      padding: 1rem;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+    }
+
+    .error {
+      color: red;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>PromptFlow Search</h2>
+  <div style="text-align: center; margin-bottom: 1.5rem;">
+    <input type="text" id="input" placeholder="Enter your topic..." />
+    <button onclick="callPromptFlow()">Submit</button>
+  </div>
+
+  <p id="loading" style="display: none;">⏳ Fetching...</p>
+  <div id="result"></div>
+
+  <script>
+    async function callPromptFlow() {
+      const input = document.getElementById('input').value;
+      const loading = document.getElementById('loading');
+      const resultEl = document.getElementById('result');
+
+      loading.style.display = 'block';
+      resultEl.innerHTML = '';
+
+      try {
+        const res = await fetch("http://127.0.0.1:8000/run", {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ InputURL: input })
+        });
+
+        if (!res.ok) {
+          const errorText = await res.text();
+          throw new Error(`HTTP ${res.status} - ${res.statusText}\n${errorText}`);
+        }
+
+        const data = await res.json();
+        const result = data.result?.llm_analysis;
+        if (!result) {
+          throw new Error("⚠️ Unexpected response structure");
+        }
+
+        let html = `
+          <h3>${result.headline}</h3>
+          <img class="cover-image" src="${result.cover_image}" alt="Cover" />
+          <div class="section">
+            <p>${result.response}</p>
+          </div>
+        `;
+
+        if (result.references?.length > 0) {
+          html += `<div class="references"><h3>References</h3>`;
+          for (const ref of result.references) {
+            html += `
+              <div class="reference-card">
+                <a href="${ref.url}" target="_blank"><strong>${new URL(ref.url).hostname}</strong></a>
+                <p>${ref.snippet}</p>
+              </div>
+            `;
+          }
+          html += `</div>`;
+        }
+
+        resultEl.innerHTML = html;
+
+      } catch (err) {
+        console.error('❌ Error:', err);
+        resultEl.innerHTML = `<div class="error">❌ Error:\n${err.message}</div>`;
+      } finally {
+        loading.style.display = 'none';
+      }
+    }
+  </script>
+
+</body>
+</html>

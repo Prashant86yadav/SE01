@@ -1,0 +1,78 @@
+{
+  "package": {},
+  "code": {
+    "echo.py": {
+      "type": "python",
+      "inputs": {
+        "query": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "echo.py",
+      "function": "google_search_node"
+    },
+    "crwal4ai.py": {
+      "type": "python",
+      "inputs": {
+        "item": {
+          "type": [
+            "object"
+          ]
+        }
+      },
+      "source": "crwal4ai.py",
+      "function": "crawl_url"
+    },
+    "LLM_Node.py": {
+      "type": "python",
+      "inputs": {
+        "input1": {
+          "type": [
+            "object"
+          ]
+        },
+        "user_query": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "description": "Processes all items together to generate one synthesized answer.",
+      "source": "LLM_Node.py",
+      "function": "analyze_with_azure_openai"
+    },
+    "Final_Version_Node.py": {
+      "type": "python",
+      "inputs": {
+        "user_query": {
+          "type": [
+            "string"
+          ]
+        },
+        "llm_output": {
+          "type": [
+            "object"
+          ]
+        }
+      },
+      "description": "Beautifies and restructures an article for web display.\nllm_output: Should be the dictionary output from the previous node.",
+      "source": "Final_Version_Node.py",
+      "function": "beautify_article_llm"
+    },
+    "test.py": {
+      "type": "python",
+      "inputs": {
+        "input1": {
+          "type": [
+            "object"
+          ]
+        }
+      },
+      "description": "Transform LLM analysis into a polished article via Azure OpenAI",
+      "source": "test.py",
+      "function": "beautify_article"
+    }
+  }
+}

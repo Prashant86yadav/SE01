@@ -1,0 +1,1098 @@
+{
+  "flow_runs": [
+    {
+      "run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_0",
+      "status": "Completed",
+      "error": null,
+      "inputs": {
+        "InputURL": "how do I learn qantum tech ?"
+      },
+      "output": {
+        "result": {
+          "llm_analysis": {
+            "headline": "Mastering Quantum Technology: A Comprehensive Guide for Beginners",
+            "intro": "Embarking on the journey to learn quantum technology can be both exciting and daunting. This guide is designed to provide you with a clear roadmap and proven strategies to kickstart your quantum learning journey. Whether you are a student, researcher, or professional looking to delve into the world of quantum computing, this comprehensive overview will equip you with the essential knowledge and resources to begin your quantum education.",
+            "sections": [
+              {
+                "title": "Understanding Quantum Computing Fundamentals",
+                "content": "Quantum computing leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computations at an exponential speed compared to classical computers. To grasp the basics of quantum computing, it is essential to have a solid foundation in linear algebra, probability theory, and computer science. Resources like online courses, textbooks, and educational videos can help you build a strong understanding of quantum mechanics and algorithms."
+              },
+              {
+                "title": "Proven Strategies to Learn Quantum Technology",
+                "content": "1. **Education-Grade Quantum Computers**: Hands-on experience with education-grade quantum computers like SpinQ's Gemini and Triangulum Quantum Computers can provide a deeper understanding of quantum systems.\n2. **Quantum Cloud Computing Services**: Platforms offered by companies like IBM and Amazon allow learners to access real quantum machines and run programs, gaining practical experience.\n3. **Quantum Simulation Tools and Software**: Quantum circuit simulators and visualization tools help in designing and testing quantum algorithms without the need for physical quantum hardware."
+              },
+              {
+                "title": "Tailored Learning Paths and Resources",
+                "content": "1. **IBM Quantum Learning**: IBM offers a range of courses covering quantum information, quantum algorithms, quantum error correction, and practical applications of quantum computing.\n2. **Q-CTRL Beginner Foundations**: Explore beginner resources on quantum technology, including quantum control, quantum physics, quantum error correction, and quantum algorithms.\n3. **Online Platforms and Communities**: Platforms like Reddit, Quora, and dedicated quantum computing websites provide a wealth of resources, discussions, and learning paths for beginners without a technical background."
+              }
+            ],
+            "conclusion": "In conclusion, learning quantum technology requires a blend of theoretical knowledge, practical experience, and continuous exploration. By leveraging a combination of educational resources, hands-on tools, and community engagement, you can navigate the complex landscape of quantum computing with confidence. Remember, quantum technology is a rapidly evolving field, and staying curious and adaptable will be key to mastering this cutting-edge technology.",
+            "cover_image": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+            "references": [
+              {
+                "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+                "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+                "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+                "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com"
+              },
+              {
+                "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+                "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+                "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+                "image_title": "How to learn quantum computing? Here's some ideas!   ",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com"
+              },
+              {
+                "url": "https://quantum.cloud.ibm.com/learning",
+                "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+                "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+                "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com"
+              },
+              {
+                "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+                "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+                "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+                "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk"
+              },
+              {
+                "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+                "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+                "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+                "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com"
+              },
+              {
+                "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+                "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+                "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+                "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com"
+              },
+              {
+                "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+                "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+                "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+                "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com"
+              }
+            ]
+          },
+          "llm_status": "success",
+          "model_used": "gpt-35-turbo"
+        }
+      },
+      "metrics": null,
+      "request": null,
+      "parent_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba",
+      "root_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba",
+      "source_run_id": null,
+      "flow_id": "template_standard_flow",
+      "start_time": "2025-07-09T00:14:26.938122Z",
+      "end_time": "2025-07-09T00:15:04.137991Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "flow",
+          "node_name": "flow",
+          "type": "Flow",
+          "start_time": 1751984066.938122,
+          "end_time": 1751984104.137991,
+          "children": [],
+          "system_metrics": {
+            "duration": 37.199869,
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "total_tokens": 0
+          },
+          "inputs": {
+            "InputURL": "how do I learn qantum tech ?"
+          },
+          "output": {
+            "result": {
+              "llm_analysis": {
+                "headline": "Mastering Quantum Technology: A Comprehensive Guide for Beginners",
+                "intro": "Embarking on the journey to learn quantum technology can be both exciting and daunting. This guide is designed to provide you with a clear roadmap and proven strategies to kickstart your quantum learning journey. Whether you are a student, researcher, or professional looking to delve into the world of quantum computing, this comprehensive overview will equip you with the essential knowledge and resources to begin your quantum education.",
+                "sections": [
+                  {
+                    "title": "Understanding Quantum Computing Fundamentals",
+                    "content": "Quantum computing leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computations at an exponential speed compared to classical computers. To grasp the basics of quantum computing, it is essential to have a solid foundation in linear algebra, probability theory, and computer science. Resources like online courses, textbooks, and educational videos can help you build a strong understanding of quantum mechanics and algorithms."
+                  },
+                  {
+                    "title": "Proven Strategies to Learn Quantum Technology",
+                    "content": "1. **Education-Grade Quantum Computers**: Hands-on experience with education-grade quantum computers like SpinQ's Gemini and Triangulum Quantum Computers can provide a deeper understanding of quantum systems.\n2. **Quantum Cloud Computing Services**: Platforms offered by companies like IBM and Amazon allow learners to access real quantum machines and run programs, gaining practical experience.\n3. **Quantum Simulation Tools and Software**: Quantum circuit simulators and visualization tools help in designing and testing quantum algorithms without the need for physical quantum hardware."
+                  },
+                  {
+                    "title": "Tailored Learning Paths and Resources",
+                    "content": "1. **IBM Quantum Learning**: IBM offers a range of courses covering quantum information, quantum algorithms, quantum error correction, and practical applications of quantum computing.\n2. **Q-CTRL Beginner Foundations**: Explore beginner resources on quantum technology, including quantum control, quantum physics, quantum error correction, and quantum algorithms.\n3. **Online Platforms and Communities**: Platforms like Reddit, Quora, and dedicated quantum computing websites provide a wealth of resources, discussions, and learning paths for beginners without a technical background."
+                  }
+                ],
+                "conclusion": "In conclusion, learning quantum technology requires a blend of theoretical knowledge, practical experience, and continuous exploration. By leveraging a combination of educational resources, hands-on tools, and community engagement, you can navigate the complex landscape of quantum computing with confidence. Remember, quantum technology is a rapidly evolving field, and staying curious and adaptable will be key to mastering this cutting-edge technology.",
+                "cover_image": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+                "references": [
+                  {
+                    "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+                    "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+                    "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+                    "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com"
+                  },
+                  {
+                    "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+                    "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+                    "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+                    "image_title": "How to learn quantum computing? Here's some ideas!   ",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com"
+                  },
+                  {
+                    "url": "https://quantum.cloud.ibm.com/learning",
+                    "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+                    "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+                    "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com"
+                  },
+                  {
+                    "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+                    "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+                    "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+                    "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk"
+                  },
+                  {
+                    "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+                    "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+                    "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+                    "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com"
+                  },
+                  {
+                    "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+                    "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+                    "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+                    "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com"
+                  },
+                  {
+                    "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+                    "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+                    "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+                    "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+                    "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com"
+                  }
+                ]
+              },
+              "llm_status": "success",
+              "model_used": "gpt-35-turbo"
+            }
+          },
+          "error": null
+        }
+      ],
+      "name": "",
+      "description": "",
+      "tags": null,
+      "system_metrics": {
+        "duration": 37.199869,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "result": {
+        "result": {
+          "llm_analysis": {
+            "headline": "Mastering Quantum Technology: A Comprehensive Guide for Beginners",
+            "intro": "Embarking on the journey to learn quantum technology can be both exciting and daunting. This guide is designed to provide you with a clear roadmap and proven strategies to kickstart your quantum learning journey. Whether you are a student, researcher, or professional looking to delve into the world of quantum computing, this comprehensive overview will equip you with the essential knowledge and resources to begin your quantum education.",
+            "sections": [
+              {
+                "title": "Understanding Quantum Computing Fundamentals",
+                "content": "Quantum computing leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computations at an exponential speed compared to classical computers. To grasp the basics of quantum computing, it is essential to have a solid foundation in linear algebra, probability theory, and computer science. Resources like online courses, textbooks, and educational videos can help you build a strong understanding of quantum mechanics and algorithms."
+              },
+              {
+                "title": "Proven Strategies to Learn Quantum Technology",
+                "content": "1. **Education-Grade Quantum Computers**: Hands-on experience with education-grade quantum computers like SpinQ's Gemini and Triangulum Quantum Computers can provide a deeper understanding of quantum systems.\n2. **Quantum Cloud Computing Services**: Platforms offered by companies like IBM and Amazon allow learners to access real quantum machines and run programs, gaining practical experience.\n3. **Quantum Simulation Tools and Software**: Quantum circuit simulators and visualization tools help in designing and testing quantum algorithms without the need for physical quantum hardware."
+              },
+              {
+                "title": "Tailored Learning Paths and Resources",
+                "content": "1. **IBM Quantum Learning**: IBM offers a range of courses covering quantum information, quantum algorithms, quantum error correction, and practical applications of quantum computing.\n2. **Q-CTRL Beginner Foundations**: Explore beginner resources on quantum technology, including quantum control, quantum physics, quantum error correction, and quantum algorithms.\n3. **Online Platforms and Communities**: Platforms like Reddit, Quora, and dedicated quantum computing websites provide a wealth of resources, discussions, and learning paths for beginners without a technical background."
+              }
+            ],
+            "conclusion": "In conclusion, learning quantum technology requires a blend of theoretical knowledge, practical experience, and continuous exploration. By leveraging a combination of educational resources, hands-on tools, and community engagement, you can navigate the complex landscape of quantum computing with confidence. Remember, quantum technology is a rapidly evolving field, and staying curious and adaptable will be key to mastering this cutting-edge technology.",
+            "cover_image": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+            "references": [
+              {
+                "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+                "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+                "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+                "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com"
+              },
+              {
+                "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+                "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+                "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+                "image_title": "How to learn quantum computing? Here's some ideas!   ",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com"
+              },
+              {
+                "url": "https://quantum.cloud.ibm.com/learning",
+                "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+                "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+                "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com"
+              },
+              {
+                "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+                "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+                "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+                "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk"
+              },
+              {
+                "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+                "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+                "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+                "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com"
+              },
+              {
+                "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+                "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+                "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+                "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com"
+              },
+              {
+                "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+                "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+                "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+                "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+                "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com"
+              }
+            ]
+          },
+          "llm_status": "success",
+          "model_used": "gpt-35-turbo"
+        }
+      },
+      "upload_metrics": false,
+      "otel_trace_id": null,
+      "message_format": "basic"
+    }
+  ],
+  "node_runs": [
+    {
+      "node": "google_search",
+      "flow_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba",
+      "run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_google_search_0",
+      "status": "Completed",
+      "inputs": {
+        "query": "how do I learn qantum tech ?"
+      },
+      "output": [
+        {
+          "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+          "title": "Learn Quantum Computing: 4 Proven Ways for Beginners - SpinQ",
+          "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+          "position": 1,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ"
+        },
+        {
+          "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+          "title": "Quantum Computing Self Study path : r/QuantumComputing - Reddit",
+          "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+          "position": 2,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com",
+          "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+          "image_title": "How to learn quantum computing? Here's some ideas!   ",
+          "image_source": "Qureca"
+        },
+        {
+          "url": "https://quantum.cloud.ibm.com/learning",
+          "title": "IBM Quantum Learning",
+          "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+          "position": 3,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com",
+          "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+          "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+          "image_source": "Caltech Science Exchange"
+        },
+        {
+          "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+          "title": "A guide to online resources for learning quantum computing - NQCC",
+          "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+          "position": 4,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk",
+          "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+          "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+          "image_source": "Australian Army Research Centre"
+        },
+        {
+          "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+          "title": "So You Want to Learn Quantum Computing? Here's How. | Built In",
+          "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+          "position": 5,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com",
+          "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+          "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "image_source": "Q-CTRL"
+        },
+        {
+          "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+          "title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+          "position": 6,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com",
+          "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+          "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+          "image_source": "Physics World"
+        },
+        {
+          "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+          "title": "How can someone learn about quantum computing without ... - Quora",
+          "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+          "position": 7,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ"
+        }
+      ],
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_0",
+      "start_time": "2025-07-09T00:14:26.946658Z",
+      "end_time": "2025-07-09T00:14:30.327564Z",
+      "index": 0,
+      "api_calls": [],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "duration": 3.380906
+      },
+      "result": [
+        {
+          "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+          "title": "Learn Quantum Computing: 4 Proven Ways for Beginners - SpinQ",
+          "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+          "position": 1,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ"
+        },
+        {
+          "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+          "title": "Quantum Computing Self Study path : r/QuantumComputing - Reddit",
+          "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+          "position": 2,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com",
+          "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+          "image_title": "How to learn quantum computing? Here's some ideas!   ",
+          "image_source": "Qureca"
+        },
+        {
+          "url": "https://quantum.cloud.ibm.com/learning",
+          "title": "IBM Quantum Learning",
+          "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+          "position": 3,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com",
+          "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+          "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+          "image_source": "Caltech Science Exchange"
+        },
+        {
+          "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+          "title": "A guide to online resources for learning quantum computing - NQCC",
+          "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+          "position": 4,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk",
+          "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+          "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+          "image_source": "Australian Army Research Centre"
+        },
+        {
+          "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+          "title": "So You Want to Learn Quantum Computing? Here's How. | Built In",
+          "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+          "position": 5,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com",
+          "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+          "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "image_source": "Q-CTRL"
+        },
+        {
+          "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+          "title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+          "position": 6,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com",
+          "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+          "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+          "image_source": "Physics World"
+        },
+        {
+          "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+          "title": "How can someone learn about quantum computing without ... - Quora",
+          "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+          "position": 7,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ"
+        }
+      ],
+      "message_format": "basic"
+    },
+    {
+      "node": "beautifulsoup",
+      "flow_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba",
+      "run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_beautifulsoup_0",
+      "status": "Completed",
+      "inputs": {
+        "item": [
+          {
+            "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+            "title": "Learn Quantum Computing: 4 Proven Ways for Beginners - SpinQ",
+            "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+            "position": 1,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com",
+            "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+            "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+            "image_source": "SpinQ"
+          },
+          {
+            "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+            "title": "Quantum Computing Self Study path : r/QuantumComputing - Reddit",
+            "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+            "position": 2,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com",
+            "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+            "image_title": "How to learn quantum computing? Here's some ideas!   ",
+            "image_source": "Qureca"
+          },
+          {
+            "url": "https://quantum.cloud.ibm.com/learning",
+            "title": "IBM Quantum Learning",
+            "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+            "position": 3,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com",
+            "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+            "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+            "image_source": "Caltech Science Exchange"
+          },
+          {
+            "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+            "title": "A guide to online resources for learning quantum computing - NQCC",
+            "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+            "position": 4,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk",
+            "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+            "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+            "image_source": "Australian Army Research Centre"
+          },
+          {
+            "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+            "title": "So You Want to Learn Quantum Computing? Here's How. | Built In",
+            "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+            "position": 5,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com",
+            "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+            "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+            "image_source": "Q-CTRL"
+          },
+          {
+            "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+            "title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+            "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+            "position": 6,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com",
+            "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+            "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+            "image_source": "Physics World"
+          },
+          {
+            "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+            "title": "How can someone learn about quantum computing without ... - Quora",
+            "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+            "position": 7,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com",
+            "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+            "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+            "image_source": "SpinQ"
+          }
+        ]
+      },
+      "output": [
+        {
+          "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+          "title": "Learn Quantum Computing: 4 Proven Ways for Beginners - SpinQ",
+          "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+          "position": 1,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ",
+          "content": "Learn Quantum Computing: 4 Proven Ways for Beginners\n2025.01.20\n·\nBlog\nlearn quantum computing\nAre you eager to learn quantum computing but unsure where and how to begin?\nLook no further—this ultimate guide is here to help!\nThis article outlines four effective strategies to learn quantum computing comprehensively and systematically. Additionally, we address common FAQs about learning quantum computing, with expert insights, practical solutions, and actionable suggestions from our team of quantum professionals.\nThis guide is designed to help you embark on your quantum learning journey with confidence and clarity, breaking down barriers along the way.\nHow to Learn Quantum Computing: 4 Practical & Effective Methods to Get Started for Beginners\nAs quantum computing advances, diverse quantum learning methods have emerged to support students, researchers, and professionals.\nThese approaches range from online quantum courses and quantum cloud platforms to hands-on experiences with real quantum computers, offering opportunities to interact with real quantum systems.\nBelow are four effective ways to learn quantum computing, paving the way for more accessible quantum education.\nMethod 1: Learn Quantum Computing with Education-Grade Quantum Computers\nFor those who require a deeper, hands-on experience with actual quantum machines, education-grade quantum computers are a great option specifically for quantum learning.\nThese quantum computers are often smaller and more affordable than commercial quantum computers, offering an accessible entry point for academic institutions. Notable examples include:\nSpinQ's Gemini and Triangulum Quantum Computers\nSpinQ's\nGemini Mini\nand\nTriangulum\nare educational-grade quantum computers designed for classroom and university use. They are compact, operate at room temperature, and provide an accessible platform to learn quantum computing.\nThey allow students to directly interact with quantum systems and better understand the principles and practices of quantum computing.\nOther University Quantum Lab Models\nMany universities have educational quantum computers for students to use, often in\npartnership with quantum computing companies like SpinQ\n.\nEducational quantum hardware allows students to gain practical experience with quantum computation beyond theoretical exercises, preparing them for the more complex challenges they will face in the workforce.\nMethod 2: Learn Quantum Computing Through Quantum Cloud Computing Services\nQuantum cloud computing services\nenable learners to access real quantum machines and simulate quantum circuits. Leading quantum tech companies like IBM, SpinQ, and Amazon offer quantum cloud platforms where students can experiment with quantum algorithms and run programs on actual quantum computers, gaining hands-on experience with real quantum systems.\nMethod 3: Learn Quantum Computing Using Quantum Simulation Tools and Software\nQuantum simulations are invaluable for helping students visualize quantum phenomena that are difficult to conceptualize. Several quantum educational tools and software have been developed to make learning quantum computing more accessible and engaging:\n1. Quantum Circuit Simulators\nQuantum circuit simulators are software tools that simulate quantum circuits on classical computers, allowing users to design and test quantum algorithms without the need for actual quantum hardware.\nThese simulators replicate the behavior of quantum circuits using classical computing power, making them a valuable tool for learning and experimentation before accessing real quantum computers.\nPopular tools like SpinQ's\nSpinQit\n,\nIBM's Qiskit, and Google's Cirq offer graphical interfaces to create and run quantum circuits.\n2. Visualization Tools\nThese visualization tools provide visual representations of quantum states, quantum gates, and entanglement, bridging the gap between abstract quantum concepts and intuitive understanding.\nBy enabling students to observe the evolution of quantum ",
+          "image": {
+            "url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341483659Learn-Quantum-Computing-via-SpinQ-Gemini-Portable-Quantum-Computer.jpg",
+            "alt": "Learn Quantum Computing via SpinQ Gemini Portable Quantum Computer",
+            "source": "content"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+          "title": "Quantum Computing Self Study path : r/QuantumComputing - Reddit",
+          "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+          "position": 2,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com",
+          "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+          "image_title": "How to learn quantum computing? Here's some ideas!   ",
+          "image_source": "Qureca",
+          "content": "Go to QuantumComputing\nr/QuantumComputing\nr/QuantumComputing\nAcademic discussion of all things quantum computing from hardware through algorithms. Not the place for business speculation, memes, or philosophy.\nMembers\nOnline\n•\nOk-Panic-9824\nQuantum Computing Self Study path\nContext: I’m a rising sophomore in college and have a working knowledge of basic physics, linear algebra, and cs. I’m confused about where to start my journey in QC as there are so many resources and so much to know.\nDoes anyone have a path (step by step) to learn quantum computation?\nThanks in advance!!\nRead more\nArchived post. New comments cannot be posted and votes cannot be cast.\nShare\nShare",
+          "image": null,
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://quantum.cloud.ibm.com/learning",
+          "title": "IBM Quantum Learning",
+          "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+          "position": 3,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com",
+          "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+          "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+          "image_source": "Caltech Science Exchange",
+          "content": "Quantum learning\nKickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics. If you’re an instructor, explore content specifically tailored to incorporating quantum in the classroom.\nFoundations\nCourses to learn about quantum information and how quantum computing works, from the basics onward.\nQuantum information and computation I\nBasics of quantum information\nLearn about quantum information, from states and measurements to quantum circuits and entanglement.\nCourse\nQuantum information and computation II\nFundamentals of quantum algorithms\nLearn how quantum algorithms beat classical algorithms for problems including integer factoring and search.\nCourse\nQuantum information and computation III\nGeneral formulation of quantum information\nDive deeper into quantum information, including density matrices, channels, and general measurements.\nCourse\nQuantum information and computation IV\nFoundations of quantum error correction\nLearn how quantum computations can be protected against noise through quantum error correcting codes and fault tolerance.\nCourse\nNew lesson\nQuantum computing in practice\nLearn potential use cases and best practices for experimenting with quantum processors having 100+ qubits.\nCourse\nNew lesson\nFocused topics\nContinue your learning journey by diving into more focused topics related to quantum computing.\nQuantum machine learning\nLearn to leverage the power of quantum computing in machine learning methods.\nCourse\nNew\nVariational algorithm design\nAn overview of variational algorithms: hybrid classical quantum algorithms.\nCourse\nQuantum chemistry with VQE\nAn introduction to VQE that covers basic building blocks and applications.\nCourse\nQuantum diagonalization algorithms\nMultiple quantum approaches to matrix diagonalization are explored, including VQE, QKD, SKD, and variations of these.\nCourse\nNew\nUtility-scale quantum computing\nA collection of learning assets from a 14-lesson course on utility-scale quantum computing.\nCourse\nQuantum computing for business\nExplore the business applications of quantum computing and what it takes build a successful quantum initiative.\nQuantum business foundations\nBuilds foundations of quantum computing, technology, and business applications.\nCourse\nPractical introduction to quantum-safe cryptography\nLearn the risks that quantum computing poses to cryptography, and explore which approaches are quantum-safe.\nCourse\nQiskit in classrooms\nExplore a suite of instructional materials designed to incorporate quantum computing into traditional STEM courses.\nQiskit in classrooms\nQuantum mechanics\nUse quantum computers to explore quantum phenomena like superposition and uncertainty.\nModule\nNew\nQiskit in classrooms\nComputer science\nRun some famous quantum algorithms, including Deutsch-Jozsa and QKD.\nModule\nNew\nAdditional resources\nComposer\nBuild and simulate circuits with a drag and drop interface\nExplore composer\nQiskit YouTube\nBrowse lectures, tips and tricks, tutorials, community updates, and more\nBrowse videos\nTutorials\nExplore utility-grade examples that leverage IBM Quantum and Qiskit technologies\nView all tutorials",
+          "image": null,
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+          "title": "A guide to online resources for learning quantum computing - NQCC",
+          "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+          "position": 4,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk",
+          "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+          "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+          "image_source": "Australian Army Research Centre",
+          "content": "The Bloch Sphere, a tool used to describe the state of a Qubit\nThis article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.\nIf a really cool resource is not listed here, feel free to add it in the comments or write to me so I can add it to the list!\nSo you have finally been persuaded – quantum computing\nis\ncool – and you have decided to embark on the journey of learning the ropes. First off, congratulations on taking the first step! This article is an attempt at helping you go from that decision to landing on the learning resource that fits you best.\nThere are lots of cool tools out there, some aimed at beginners, some at advanced learners, some include programming, others games and interactive learning. And you, my friend, you may be a really motivated high school student (keep it up!), or an undergraduate student, trying to figure out whether this is your calling. Or you might be a professional scientist who deliberated that it’s time to pivot towards quantum computing and incorporate those key skills into your portfolio. Or yet you might be a manager within a small-medium industry, or a large corporation, and you feel you will soon need to take decisions which involve understanding the potential and applications of quantum computing to your specific field. You might be a math wizard, using your mathematical brain every day in your job, or you might feel quite rusty with the math, or even terrified to go back there.\nThe profiles and backgrounds of people looking to learn more about quantum computing can be very diverse. Yet, quantum computing is a complex and interdisciplinary field that includes theoretical physics and maths, engineering, electronics and programming. As scientists keep developing the hardware, we are starting to explore the applications space, which marries quantum computing with the specific application, be it pharmaceuticals, finance, battery development, chemical engineering and many more. On one hand, experts in those fields will be identifying the computational challenges they face, on the other quantum computing experts will be developing algorithms targeted to solving those challenges.\nSo, where should\nyou\nbegin?\nI’ve separated resources according to their level of detail and level of math, conscious especially of the fact that math is not a language that everyone is accustomed to.\nIntroductions to quantum computing\nNo maths\nLet’s begin with some\nshort videos\n:\nQuantum computers explained by Kurtzgesagt\nhttps://www.youtube.com/watch?v=JhHMJCUmq28&t=4s\nThe map of quantum computing by D. Walliman:\nhttps://www.youtube.com/watch?v=-UlxHPIEVqA\nA beginner’s guide to quantum computing by S. Ghose:\nhttps://www.youtube.com/watch?v=QuR969uMICM&t=101s\nQuantum computing on 5 levels of difficulty by IBM:\nhttps://www.youtube.com/watch?v=OWJCfOvochA\nA Ted-Ed video I scripted a while ago:\nhttps://www.ted.com/talks/chiara_decaroli_the_high_stakes_race_to_make_quantum_computers_work\nAnd popular science books:\nQuantum Theory cannot hurt you:\nhttps://www.goodreads.com/book/show/2330343.Quantum_Theory_Cannot_Hurt_You\nHow to teach quantum physics to your dog:\nhttps://www.goodreads.com/book/show/8243716-how-to-teach-quantum-physics-to-your-dog\nAnd what about learning while playing?\nhttps://qplaylearn.com/\n: fantastic free resources (including games, videos and short explainers) developed by quantum computing researchers\nQuantum Games and Interactive Tools for Quantum Technologies Outreach and Education: this paper\nhttps://arxiv.org/abs/2202.07756\n(2022) is a survey of all the great quantum games out there, beware, you’ll definitely get stuck into them! (My personal favourite is the quantum game with photons, which I helped develop (therefore I am biased):\nhttps://play.quantumgame.io/\n)\nOf course, there are also plenty of articles, if you’d rather read up on it, such as:\nhttps://www.newscientist.com/question/what-is-a-quantum-computer/\nhttps://www.t",
+          "image": {
+            "url": "https://www.nqcc.ac.uk/wp-content/uploads/2023/08/1_Gti7a4HvRsJJqgHSd4f2nw.webp",
+            "alt": "Featured image",
+            "source": "meta"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+          "title": "So You Want to Learn Quantum Computing? Here's How. | Built In",
+          "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+          "position": 5,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com",
+          "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+          "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "image_source": "Q-CTRL",
+          "content": "UPDATED BY\nAbel Rodriguez\n| May 23, 2025\nSummary:\nQuantum computing is advancing rapidly, with companies like IBM and Google developing cloud-accessible systems. Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.\nmore\nQuantum computing is advancing rapidly, with companies like IBM and Google developing cloud-accessible systems. Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.\nQuantum computing is growing — in academia, but also commercially. Companies like IBM, Google and Microsoft are\nracing to build\nthe first fully-functioning quantum computer. In the past few years we’ve witnessed rapid development in quantum computing, on the hardware and software sides.\nCurrently, (very faulty) quantum computers\nactually exist\n. You can access them through the cloud and use them to execute codes written in Python or other programming languages. Making quantum computers\navailable online\nto anyone encourages more people to get into the field and see what the hype is all about.\nSo, if you’re curious about quantum computing and its potential to improve many fields including machine learning and artificial intelligence (not to mention the premise that it can solve problems\ncurrent computers fail to address\n), keep reading.\nWhat Is Quantum Computing?\nQuantum computing is a computing methodology that uses the power of quantum mechanics, such as superposition and entanglement, to perform faster computations. Accessing this power will allow us to overcome problems the current computer struggles to solve.\nHow to Learn Quantum Computing\nFinding suitable materials can be a hassle when someone tries to get into a new field; after all, the internet is full of good (and not-so-good) resources. In this article, I’ll go through some resources you can use to get started on your quantum computing learning journey. These materials will help you learn how to think about problems through a quantum lens, especially when it comes to quantum hardware, algorithms and circuits.\nHow to Learn Quantum Computing\nQiskit\nQuantum Computing: A Gentle Introduction\nIntroduction to Classical and Quantum Computing\nScience Without the Gobbeldygook\nQuantum Computation and Quantum Information\nQiskit\nIBM is one of the companies putting a lot of effort into building a quantum community; they’re behind the most-used quantum computing Python package,\nQiskit\n.\nQiskit (quantum information science kit) is an open-source Python package that allows you to implement, simulate and run quantum algorithms on IBM’s actual hardware. If you’re looking for an excellent place to start learning everything quantum, look no further than the\nQiskit YouTube channel\nand\ntextbook\n.\nThe\nQiskit channel\ncovers the fundamentals of quantum computing and details  how you can implement these fundamentals using code. The channel is active and they post new content every week.\nIf you’re an absolute beginner to the world of quantum computing, the\nIntroduction to Quantum Computing and Quantum Hardware\nplaylist is the best place to start.\nAlthough the Qiskit YouTube channel goes in-depth about various aspects of quantum computing, some people (myself included) prefer to have written documentation in addition to a video tutorial. Having written content makes it easier to actually practice with the code or solve some exercises. For that, I recommend giving the\nQiskit textbook\na read. Like the YouTube channel, IBM continuously updates the textbook. In fact, IBM is currently working on a new version of an interactive book that will allow you to have a more comprehensive learning experience.\nMore From Sara A. Metwalli\nHow to Write Pseudocode\nQuantum Computing: A Gentle Introduction\nOver the past couple of years, many books have addressed quantum computing and physics but perhaps the easiest one to access is\nQuantum C",
+          "image": {
+            "url": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2022-01/how-to-learn-quantum-computing.png",
+            "alt": "Featured image",
+            "source": "meta"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+          "title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+          "position": 6,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com",
+          "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+          "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+          "image_source": "Physics World",
+          "content": "Learning center\nBeginner foundations\nBeginner foundations\nLearn the basics of quantum technology from the expert team at Q-CTRL.\nBeginner\nBuilding a quantum implementation roadmap with the arrival of Quantum Error Correction\nA simple guide to help IT leaders in enterprise, government, and research understand this technology and build a foundation for the future.\nBuild a foundation for the future\nBeginner\nWhat is quantum control?\nLearn about the history of quantum control and how it accelerates the path to useful quantum technologies, such as quantum computers, firmware, and sensing.\nLearn quantum control\nBeginner\nWhat is quantum physics?\nLearn the fundamentals of quantum physics for developing quantum computers and explore insights into the basic principles driving quantum innovation.\nLearn quantum physics\nBeginner\nWhat is quantum error correction?\nLearn how Quantum error correction can enable the quantum computing revolution and the vital role it plays in the future of large-scale quantum computers.\nLearn quantum error correction\nBeginner\nWhat is quantum firmware?\nQuantum firmware bridges the gap between mathematical abstractions of quantum algorithms and practical physical manipulation of imperfect quantum hardware.\nLearn quantum firmware\nBeginner\nWhat is NISQ computing?\nLearn about the current \"noisy\" era of quantum computing and what it stands to deliver. Uncover what quantum computing in the NISQ era looks like today.\nLearn NISQ computing\nBeginner\nWhat are quantum algorithms?\nLearn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.\nLearn quantum algorithms\nBeginner\nIntroduction to quantum computing\nLearn the foundations and discover the principles for how this technology will power a transformative information age.\nLearn quantum computing\nBeginner\nWhat is quantum sensing?\nLearn how the fragility of quantum hardware lets us detect the undetectable and discover the principles and potential applications for quantum sensing.\nLearn quantum sensing\nNews and updates\nRead the latest company news, quantum research, and product updates from Q-CTRL.\nDocumentation\nLearn how Q-CTRL provides the critical software to help you do more with your hardware.\nResearch\nBackground material and research developed by the Q-CTRL team.\nGlossary\nLearn the most common terms and frequently asked questions in quantum computing and quantum sensing.",
+          "image": {
+            "url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0df/681af165ccfd8c6d414e3ee1_beginner-foundations-meta.webp",
+            "alt": "Featured image",
+            "source": "meta"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+          "title": "How can someone learn about quantum computing without ... - Quora",
+          "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+          "position": 7,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ",
+          "content": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+          "image": null,
+          "status": "fallback",
+          "error": "Using Google snippet",
+          "source": "google_fallback"
+        }
+      ],
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_0",
+      "start_time": "2025-07-09T00:14:30.327564Z",
+      "end_time": "2025-07-09T00:14:46.807219Z",
+      "index": 0,
+      "api_calls": [],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "duration": 16.479655
+      },
+      "result": [
+        {
+          "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+          "title": "Learn Quantum Computing: 4 Proven Ways for Beginners - SpinQ",
+          "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+          "position": 1,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ",
+          "content": "Learn Quantum Computing: 4 Proven Ways for Beginners\n2025.01.20\n·\nBlog\nlearn quantum computing\nAre you eager to learn quantum computing but unsure where and how to begin?\nLook no further—this ultimate guide is here to help!\nThis article outlines four effective strategies to learn quantum computing comprehensively and systematically. Additionally, we address common FAQs about learning quantum computing, with expert insights, practical solutions, and actionable suggestions from our team of quantum professionals.\nThis guide is designed to help you embark on your quantum learning journey with confidence and clarity, breaking down barriers along the way.\nHow to Learn Quantum Computing: 4 Practical & Effective Methods to Get Started for Beginners\nAs quantum computing advances, diverse quantum learning methods have emerged to support students, researchers, and professionals.\nThese approaches range from online quantum courses and quantum cloud platforms to hands-on experiences with real quantum computers, offering opportunities to interact with real quantum systems.\nBelow are four effective ways to learn quantum computing, paving the way for more accessible quantum education.\nMethod 1: Learn Quantum Computing with Education-Grade Quantum Computers\nFor those who require a deeper, hands-on experience with actual quantum machines, education-grade quantum computers are a great option specifically for quantum learning.\nThese quantum computers are often smaller and more affordable than commercial quantum computers, offering an accessible entry point for academic institutions. Notable examples include:\nSpinQ's Gemini and Triangulum Quantum Computers\nSpinQ's\nGemini Mini\nand\nTriangulum\nare educational-grade quantum computers designed for classroom and university use. They are compact, operate at room temperature, and provide an accessible platform to learn quantum computing.\nThey allow students to directly interact with quantum systems and better understand the principles and practices of quantum computing.\nOther University Quantum Lab Models\nMany universities have educational quantum computers for students to use, often in\npartnership with quantum computing companies like SpinQ\n.\nEducational quantum hardware allows students to gain practical experience with quantum computation beyond theoretical exercises, preparing them for the more complex challenges they will face in the workforce.\nMethod 2: Learn Quantum Computing Through Quantum Cloud Computing Services\nQuantum cloud computing services\nenable learners to access real quantum machines and simulate quantum circuits. Leading quantum tech companies like IBM, SpinQ, and Amazon offer quantum cloud platforms where students can experiment with quantum algorithms and run programs on actual quantum computers, gaining hands-on experience with real quantum systems.\nMethod 3: Learn Quantum Computing Using Quantum Simulation Tools and Software\nQuantum simulations are invaluable for helping students visualize quantum phenomena that are difficult to conceptualize. Several quantum educational tools and software have been developed to make learning quantum computing more accessible and engaging:\n1. Quantum Circuit Simulators\nQuantum circuit simulators are software tools that simulate quantum circuits on classical computers, allowing users to design and test quantum algorithms without the need for actual quantum hardware.\nThese simulators replicate the behavior of quantum circuits using classical computing power, making them a valuable tool for learning and experimentation before accessing real quantum computers.\nPopular tools like SpinQ's\nSpinQit\n,\nIBM's Qiskit, and Google's Cirq offer graphical interfaces to create and run quantum circuits.\n2. Visualization Tools\nThese visualization tools provide visual representations of quantum states, quantum gates, and entanglement, bridging the gap between abstract quantum concepts and intuitive understanding.\nBy enabling students to observe the evolution of quantum ",
+          "image": {
+            "url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341483659Learn-Quantum-Computing-via-SpinQ-Gemini-Portable-Quantum-Computer.jpg",
+            "alt": "Learn Quantum Computing via SpinQ Gemini Portable Quantum Computer",
+            "source": "content"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+          "title": "Quantum Computing Self Study path : r/QuantumComputing - Reddit",
+          "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+          "position": 2,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com",
+          "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+          "image_title": "How to learn quantum computing? Here's some ideas!   ",
+          "image_source": "Qureca",
+          "content": "Go to QuantumComputing\nr/QuantumComputing\nr/QuantumComputing\nAcademic discussion of all things quantum computing from hardware through algorithms. Not the place for business speculation, memes, or philosophy.\nMembers\nOnline\n•\nOk-Panic-9824\nQuantum Computing Self Study path\nContext: I’m a rising sophomore in college and have a working knowledge of basic physics, linear algebra, and cs. I’m confused about where to start my journey in QC as there are so many resources and so much to know.\nDoes anyone have a path (step by step) to learn quantum computation?\nThanks in advance!!\nRead more\nArchived post. New comments cannot be posted and votes cannot be cast.\nShare\nShare",
+          "image": null,
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://quantum.cloud.ibm.com/learning",
+          "title": "IBM Quantum Learning",
+          "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+          "position": 3,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com",
+          "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+          "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+          "image_source": "Caltech Science Exchange",
+          "content": "Quantum learning\nKickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics. If you’re an instructor, explore content specifically tailored to incorporating quantum in the classroom.\nFoundations\nCourses to learn about quantum information and how quantum computing works, from the basics onward.\nQuantum information and computation I\nBasics of quantum information\nLearn about quantum information, from states and measurements to quantum circuits and entanglement.\nCourse\nQuantum information and computation II\nFundamentals of quantum algorithms\nLearn how quantum algorithms beat classical algorithms for problems including integer factoring and search.\nCourse\nQuantum information and computation III\nGeneral formulation of quantum information\nDive deeper into quantum information, including density matrices, channels, and general measurements.\nCourse\nQuantum information and computation IV\nFoundations of quantum error correction\nLearn how quantum computations can be protected against noise through quantum error correcting codes and fault tolerance.\nCourse\nNew lesson\nQuantum computing in practice\nLearn potential use cases and best practices for experimenting with quantum processors having 100+ qubits.\nCourse\nNew lesson\nFocused topics\nContinue your learning journey by diving into more focused topics related to quantum computing.\nQuantum machine learning\nLearn to leverage the power of quantum computing in machine learning methods.\nCourse\nNew\nVariational algorithm design\nAn overview of variational algorithms: hybrid classical quantum algorithms.\nCourse\nQuantum chemistry with VQE\nAn introduction to VQE that covers basic building blocks and applications.\nCourse\nQuantum diagonalization algorithms\nMultiple quantum approaches to matrix diagonalization are explored, including VQE, QKD, SKD, and variations of these.\nCourse\nNew\nUtility-scale quantum computing\nA collection of learning assets from a 14-lesson course on utility-scale quantum computing.\nCourse\nQuantum computing for business\nExplore the business applications of quantum computing and what it takes build a successful quantum initiative.\nQuantum business foundations\nBuilds foundations of quantum computing, technology, and business applications.\nCourse\nPractical introduction to quantum-safe cryptography\nLearn the risks that quantum computing poses to cryptography, and explore which approaches are quantum-safe.\nCourse\nQiskit in classrooms\nExplore a suite of instructional materials designed to incorporate quantum computing into traditional STEM courses.\nQiskit in classrooms\nQuantum mechanics\nUse quantum computers to explore quantum phenomena like superposition and uncertainty.\nModule\nNew\nQiskit in classrooms\nComputer science\nRun some famous quantum algorithms, including Deutsch-Jozsa and QKD.\nModule\nNew\nAdditional resources\nComposer\nBuild and simulate circuits with a drag and drop interface\nExplore composer\nQiskit YouTube\nBrowse lectures, tips and tricks, tutorials, community updates, and more\nBrowse videos\nTutorials\nExplore utility-grade examples that leverage IBM Quantum and Qiskit technologies\nView all tutorials",
+          "image": null,
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+          "title": "A guide to online resources for learning quantum computing - NQCC",
+          "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+          "position": 4,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk",
+          "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+          "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+          "image_source": "Australian Army Research Centre",
+          "content": "The Bloch Sphere, a tool used to describe the state of a Qubit\nThis article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.\nIf a really cool resource is not listed here, feel free to add it in the comments or write to me so I can add it to the list!\nSo you have finally been persuaded – quantum computing\nis\ncool – and you have decided to embark on the journey of learning the ropes. First off, congratulations on taking the first step! This article is an attempt at helping you go from that decision to landing on the learning resource that fits you best.\nThere are lots of cool tools out there, some aimed at beginners, some at advanced learners, some include programming, others games and interactive learning. And you, my friend, you may be a really motivated high school student (keep it up!), or an undergraduate student, trying to figure out whether this is your calling. Or you might be a professional scientist who deliberated that it’s time to pivot towards quantum computing and incorporate those key skills into your portfolio. Or yet you might be a manager within a small-medium industry, or a large corporation, and you feel you will soon need to take decisions which involve understanding the potential and applications of quantum computing to your specific field. You might be a math wizard, using your mathematical brain every day in your job, or you might feel quite rusty with the math, or even terrified to go back there.\nThe profiles and backgrounds of people looking to learn more about quantum computing can be very diverse. Yet, quantum computing is a complex and interdisciplinary field that includes theoretical physics and maths, engineering, electronics and programming. As scientists keep developing the hardware, we are starting to explore the applications space, which marries quantum computing with the specific application, be it pharmaceuticals, finance, battery development, chemical engineering and many more. On one hand, experts in those fields will be identifying the computational challenges they face, on the other quantum computing experts will be developing algorithms targeted to solving those challenges.\nSo, where should\nyou\nbegin?\nI’ve separated resources according to their level of detail and level of math, conscious especially of the fact that math is not a language that everyone is accustomed to.\nIntroductions to quantum computing\nNo maths\nLet’s begin with some\nshort videos\n:\nQuantum computers explained by Kurtzgesagt\nhttps://www.youtube.com/watch?v=JhHMJCUmq28&t=4s\nThe map of quantum computing by D. Walliman:\nhttps://www.youtube.com/watch?v=-UlxHPIEVqA\nA beginner’s guide to quantum computing by S. Ghose:\nhttps://www.youtube.com/watch?v=QuR969uMICM&t=101s\nQuantum computing on 5 levels of difficulty by IBM:\nhttps://www.youtube.com/watch?v=OWJCfOvochA\nA Ted-Ed video I scripted a while ago:\nhttps://www.ted.com/talks/chiara_decaroli_the_high_stakes_race_to_make_quantum_computers_work\nAnd popular science books:\nQuantum Theory cannot hurt you:\nhttps://www.goodreads.com/book/show/2330343.Quantum_Theory_Cannot_Hurt_You\nHow to teach quantum physics to your dog:\nhttps://www.goodreads.com/book/show/8243716-how-to-teach-quantum-physics-to-your-dog\nAnd what about learning while playing?\nhttps://qplaylearn.com/\n: fantastic free resources (including games, videos and short explainers) developed by quantum computing researchers\nQuantum Games and Interactive Tools for Quantum Technologies Outreach and Education: this paper\nhttps://arxiv.org/abs/2202.07756\n(2022) is a survey of all the great quantum games out there, beware, you’ll definitely get stuck into them! (My personal favourite is the quantum game with photons, which I helped develop (therefore I am biased):\nhttps://play.quantumgame.io/\n)\nOf course, there are also plenty of articles, if you’d rather read up on it, such as:\nhttps://www.newscientist.com/question/what-is-a-quantum-computer/\nhttps://www.t",
+          "image": {
+            "url": "https://www.nqcc.ac.uk/wp-content/uploads/2023/08/1_Gti7a4HvRsJJqgHSd4f2nw.webp",
+            "alt": "Featured image",
+            "source": "meta"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+          "title": "So You Want to Learn Quantum Computing? Here's How. | Built In",
+          "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+          "position": 5,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com",
+          "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+          "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "image_source": "Q-CTRL",
+          "content": "UPDATED BY\nAbel Rodriguez\n| May 23, 2025\nSummary:\nQuantum computing is advancing rapidly, with companies like IBM and Google developing cloud-accessible systems. Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.\nmore\nQuantum computing is advancing rapidly, with companies like IBM and Google developing cloud-accessible systems. Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.\nQuantum computing is growing — in academia, but also commercially. Companies like IBM, Google and Microsoft are\nracing to build\nthe first fully-functioning quantum computer. In the past few years we’ve witnessed rapid development in quantum computing, on the hardware and software sides.\nCurrently, (very faulty) quantum computers\nactually exist\n. You can access them through the cloud and use them to execute codes written in Python or other programming languages. Making quantum computers\navailable online\nto anyone encourages more people to get into the field and see what the hype is all about.\nSo, if you’re curious about quantum computing and its potential to improve many fields including machine learning and artificial intelligence (not to mention the premise that it can solve problems\ncurrent computers fail to address\n), keep reading.\nWhat Is Quantum Computing?\nQuantum computing is a computing methodology that uses the power of quantum mechanics, such as superposition and entanglement, to perform faster computations. Accessing this power will allow us to overcome problems the current computer struggles to solve.\nHow to Learn Quantum Computing\nFinding suitable materials can be a hassle when someone tries to get into a new field; after all, the internet is full of good (and not-so-good) resources. In this article, I’ll go through some resources you can use to get started on your quantum computing learning journey. These materials will help you learn how to think about problems through a quantum lens, especially when it comes to quantum hardware, algorithms and circuits.\nHow to Learn Quantum Computing\nQiskit\nQuantum Computing: A Gentle Introduction\nIntroduction to Classical and Quantum Computing\nScience Without the Gobbeldygook\nQuantum Computation and Quantum Information\nQiskit\nIBM is one of the companies putting a lot of effort into building a quantum community; they’re behind the most-used quantum computing Python package,\nQiskit\n.\nQiskit (quantum information science kit) is an open-source Python package that allows you to implement, simulate and run quantum algorithms on IBM’s actual hardware. If you’re looking for an excellent place to start learning everything quantum, look no further than the\nQiskit YouTube channel\nand\ntextbook\n.\nThe\nQiskit channel\ncovers the fundamentals of quantum computing and details  how you can implement these fundamentals using code. The channel is active and they post new content every week.\nIf you’re an absolute beginner to the world of quantum computing, the\nIntroduction to Quantum Computing and Quantum Hardware\nplaylist is the best place to start.\nAlthough the Qiskit YouTube channel goes in-depth about various aspects of quantum computing, some people (myself included) prefer to have written documentation in addition to a video tutorial. Having written content makes it easier to actually practice with the code or solve some exercises. For that, I recommend giving the\nQiskit textbook\na read. Like the YouTube channel, IBM continuously updates the textbook. In fact, IBM is currently working on a new version of an interactive book that will allow you to have a more comprehensive learning experience.\nMore From Sara A. Metwalli\nHow to Write Pseudocode\nQuantum Computing: A Gentle Introduction\nOver the past couple of years, many books have addressed quantum computing and physics but perhaps the easiest one to access is\nQuantum C",
+          "image": {
+            "url": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2022-01/how-to-learn-quantum-computing.png",
+            "alt": "Featured image",
+            "source": "meta"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+          "title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+          "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+          "position": 6,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com",
+          "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+          "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+          "image_source": "Physics World",
+          "content": "Learning center\nBeginner foundations\nBeginner foundations\nLearn the basics of quantum technology from the expert team at Q-CTRL.\nBeginner\nBuilding a quantum implementation roadmap with the arrival of Quantum Error Correction\nA simple guide to help IT leaders in enterprise, government, and research understand this technology and build a foundation for the future.\nBuild a foundation for the future\nBeginner\nWhat is quantum control?\nLearn about the history of quantum control and how it accelerates the path to useful quantum technologies, such as quantum computers, firmware, and sensing.\nLearn quantum control\nBeginner\nWhat is quantum physics?\nLearn the fundamentals of quantum physics for developing quantum computers and explore insights into the basic principles driving quantum innovation.\nLearn quantum physics\nBeginner\nWhat is quantum error correction?\nLearn how Quantum error correction can enable the quantum computing revolution and the vital role it plays in the future of large-scale quantum computers.\nLearn quantum error correction\nBeginner\nWhat is quantum firmware?\nQuantum firmware bridges the gap between mathematical abstractions of quantum algorithms and practical physical manipulation of imperfect quantum hardware.\nLearn quantum firmware\nBeginner\nWhat is NISQ computing?\nLearn about the current \"noisy\" era of quantum computing and what it stands to deliver. Uncover what quantum computing in the NISQ era looks like today.\nLearn NISQ computing\nBeginner\nWhat are quantum algorithms?\nLearn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.\nLearn quantum algorithms\nBeginner\nIntroduction to quantum computing\nLearn the foundations and discover the principles for how this technology will power a transformative information age.\nLearn quantum computing\nBeginner\nWhat is quantum sensing?\nLearn how the fragility of quantum hardware lets us detect the undetectable and discover the principles and potential applications for quantum sensing.\nLearn quantum sensing\nNews and updates\nRead the latest company news, quantum research, and product updates from Q-CTRL.\nDocumentation\nLearn how Q-CTRL provides the critical software to help you do more with your hardware.\nResearch\nBackground material and research developed by the Q-CTRL team.\nGlossary\nLearn the most common terms and frequently asked questions in quantum computing and quantum sensing.",
+          "image": {
+            "url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0df/681af165ccfd8c6d414e3ee1_beginner-foundations-meta.webp",
+            "alt": "Featured image",
+            "source": "meta"
+          },
+          "status": "success",
+          "error": "",
+          "source": "bs4"
+        },
+        {
+          "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+          "title": "How can someone learn about quantum computing without ... - Quora",
+          "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+          "position": 7,
+          "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com",
+          "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+          "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+          "image_source": "SpinQ",
+          "content": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+          "image": null,
+          "status": "fallback",
+          "error": "Using Google snippet",
+          "source": "google_fallback"
+        }
+      ],
+      "message_format": "basic"
+    },
+    {
+      "node": "LLM_Node",
+      "flow_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba",
+      "run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_LLM_Node_0",
+      "status": "Completed",
+      "inputs": {
+        "input1": [
+          {
+            "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+            "title": "Learn Quantum Computing: 4 Proven Ways for Beginners - SpinQ",
+            "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+            "position": 1,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com",
+            "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+            "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+            "image_source": "SpinQ",
+            "content": "Learn Quantum Computing: 4 Proven Ways for Beginners\n2025.01.20\n·\nBlog\nlearn quantum computing\nAre you eager to learn quantum computing but unsure where and how to begin?\nLook no further—this ultimate guide is here to help!\nThis article outlines four effective strategies to learn quantum computing comprehensively and systematically. Additionally, we address common FAQs about learning quantum computing, with expert insights, practical solutions, and actionable suggestions from our team of quantum professionals.\nThis guide is designed to help you embark on your quantum learning journey with confidence and clarity, breaking down barriers along the way.\nHow to Learn Quantum Computing: 4 Practical & Effective Methods to Get Started for Beginners\nAs quantum computing advances, diverse quantum learning methods have emerged to support students, researchers, and professionals.\nThese approaches range from online quantum courses and quantum cloud platforms to hands-on experiences with real quantum computers, offering opportunities to interact with real quantum systems.\nBelow are four effective ways to learn quantum computing, paving the way for more accessible quantum education.\nMethod 1: Learn Quantum Computing with Education-Grade Quantum Computers\nFor those who require a deeper, hands-on experience with actual quantum machines, education-grade quantum computers are a great option specifically for quantum learning.\nThese quantum computers are often smaller and more affordable than commercial quantum computers, offering an accessible entry point for academic institutions. Notable examples include:\nSpinQ's Gemini and Triangulum Quantum Computers\nSpinQ's\nGemini Mini\nand\nTriangulum\nare educational-grade quantum computers designed for classroom and university use. They are compact, operate at room temperature, and provide an accessible platform to learn quantum computing.\nThey allow students to directly interact with quantum systems and better understand the principles and practices of quantum computing.\nOther University Quantum Lab Models\nMany universities have educational quantum computers for students to use, often in\npartnership with quantum computing companies like SpinQ\n.\nEducational quantum hardware allows students to gain practical experience with quantum computation beyond theoretical exercises, preparing them for the more complex challenges they will face in the workforce.\nMethod 2: Learn Quantum Computing Through Quantum Cloud Computing Services\nQuantum cloud computing services\nenable learners to access real quantum machines and simulate quantum circuits. Leading quantum tech companies like IBM, SpinQ, and Amazon offer quantum cloud platforms where students can experiment with quantum algorithms and run programs on actual quantum computers, gaining hands-on experience with real quantum systems.\nMethod 3: Learn Quantum Computing Using Quantum Simulation Tools and Software\nQuantum simulations are invaluable for helping students visualize quantum phenomena that are difficult to conceptualize. Several quantum educational tools and software have been developed to make learning quantum computing more accessible and engaging:\n1. Quantum Circuit Simulators\nQuantum circuit simulators are software tools that simulate quantum circuits on classical computers, allowing users to design and test quantum algorithms without the need for actual quantum hardware.\nThese simulators replicate the behavior of quantum circuits using classical computing power, making them a valuable tool for learning and experimentation before accessing real quantum computers.\nPopular tools like SpinQ's\nSpinQit\n,\nIBM's Qiskit, and Google's Cirq offer graphical interfaces to create and run quantum circuits.\n2. Visualization Tools\nThese visualization tools provide visual representations of quantum states, quantum gates, and entanglement, bridging the gap between abstract quantum concepts and intuitive understanding.\nBy enabling students to observe the evolution of quantum ",
+            "image": {
+              "url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341483659Learn-Quantum-Computing-via-SpinQ-Gemini-Portable-Quantum-Computer.jpg",
+              "alt": "Learn Quantum Computing via SpinQ Gemini Portable Quantum Computer",
+              "source": "content"
+            },
+            "status": "success",
+            "error": "",
+            "source": "bs4"
+          },
+          {
+            "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+            "title": "Quantum Computing Self Study path : r/QuantumComputing - Reddit",
+            "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+            "position": 2,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com",
+            "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+            "image_title": "How to learn quantum computing? Here's some ideas!   ",
+            "image_source": "Qureca",
+            "content": "Go to QuantumComputing\nr/QuantumComputing\nr/QuantumComputing\nAcademic discussion of all things quantum computing from hardware through algorithms. Not the place for business speculation, memes, or philosophy.\nMembers\nOnline\n•\nOk-Panic-9824\nQuantum Computing Self Study path\nContext: I’m a rising sophomore in college and have a working knowledge of basic physics, linear algebra, and cs. I’m confused about where to start my journey in QC as there are so many resources and so much to know.\nDoes anyone have a path (step by step) to learn quantum computation?\nThanks in advance!!\nRead more\nArchived post. New comments cannot be posted and votes cannot be cast.\nShare\nShare",
+            "image": null,
+            "status": "success",
+            "error": "",
+            "source": "bs4"
+          },
+          {
+            "url": "https://quantum.cloud.ibm.com/learning",
+            "title": "IBM Quantum Learning",
+            "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+            "position": 3,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com",
+            "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+            "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+            "image_source": "Caltech Science Exchange",
+            "content": "Quantum learning\nKickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics. If you’re an instructor, explore content specifically tailored to incorporating quantum in the classroom.\nFoundations\nCourses to learn about quantum information and how quantum computing works, from the basics onward.\nQuantum information and computation I\nBasics of quantum information\nLearn about quantum information, from states and measurements to quantum circuits and entanglement.\nCourse\nQuantum information and computation II\nFundamentals of quantum algorithms\nLearn how quantum algorithms beat classical algorithms for problems including integer factoring and search.\nCourse\nQuantum information and computation III\nGeneral formulation of quantum information\nDive deeper into quantum information, including density matrices, channels, and general measurements.\nCourse\nQuantum information and computation IV\nFoundations of quantum error correction\nLearn how quantum computations can be protected against noise through quantum error correcting codes and fault tolerance.\nCourse\nNew lesson\nQuantum computing in practice\nLearn potential use cases and best practices for experimenting with quantum processors having 100+ qubits.\nCourse\nNew lesson\nFocused topics\nContinue your learning journey by diving into more focused topics related to quantum computing.\nQuantum machine learning\nLearn to leverage the power of quantum computing in machine learning methods.\nCourse\nNew\nVariational algorithm design\nAn overview of variational algorithms: hybrid classical quantum algorithms.\nCourse\nQuantum chemistry with VQE\nAn introduction to VQE that covers basic building blocks and applications.\nCourse\nQuantum diagonalization algorithms\nMultiple quantum approaches to matrix diagonalization are explored, including VQE, QKD, SKD, and variations of these.\nCourse\nNew\nUtility-scale quantum computing\nA collection of learning assets from a 14-lesson course on utility-scale quantum computing.\nCourse\nQuantum computing for business\nExplore the business applications of quantum computing and what it takes build a successful quantum initiative.\nQuantum business foundations\nBuilds foundations of quantum computing, technology, and business applications.\nCourse\nPractical introduction to quantum-safe cryptography\nLearn the risks that quantum computing poses to cryptography, and explore which approaches are quantum-safe.\nCourse\nQiskit in classrooms\nExplore a suite of instructional materials designed to incorporate quantum computing into traditional STEM courses.\nQiskit in classrooms\nQuantum mechanics\nUse quantum computers to explore quantum phenomena like superposition and uncertainty.\nModule\nNew\nQiskit in classrooms\nComputer science\nRun some famous quantum algorithms, including Deutsch-Jozsa and QKD.\nModule\nNew\nAdditional resources\nComposer\nBuild and simulate circuits with a drag and drop interface\nExplore composer\nQiskit YouTube\nBrowse lectures, tips and tricks, tutorials, community updates, and more\nBrowse videos\nTutorials\nExplore utility-grade examples that leverage IBM Quantum and Qiskit technologies\nView all tutorials",
+            "image": null,
+            "status": "success",
+            "error": "",
+            "source": "bs4"
+          },
+          {
+            "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+            "title": "A guide to online resources for learning quantum computing - NQCC",
+            "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+            "position": 4,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk",
+            "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+            "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+            "image_source": "Australian Army Research Centre",
+            "content": "The Bloch Sphere, a tool used to describe the state of a Qubit\nThis article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.\nIf a really cool resource is not listed here, feel free to add it in the comments or write to me so I can add it to the list!\nSo you have finally been persuaded – quantum computing\nis\ncool – and you have decided to embark on the journey of learning the ropes. First off, congratulations on taking the first step! This article is an attempt at helping you go from that decision to landing on the learning resource that fits you best.\nThere are lots of cool tools out there, some aimed at beginners, some at advanced learners, some include programming, others games and interactive learning. And you, my friend, you may be a really motivated high school student (keep it up!), or an undergraduate student, trying to figure out whether this is your calling. Or you might be a professional scientist who deliberated that it’s time to pivot towards quantum computing and incorporate those key skills into your portfolio. Or yet you might be a manager within a small-medium industry, or a large corporation, and you feel you will soon need to take decisions which involve understanding the potential and applications of quantum computing to your specific field. You might be a math wizard, using your mathematical brain every day in your job, or you might feel quite rusty with the math, or even terrified to go back there.\nThe profiles and backgrounds of people looking to learn more about quantum computing can be very diverse. Yet, quantum computing is a complex and interdisciplinary field that includes theoretical physics and maths, engineering, electronics and programming. As scientists keep developing the hardware, we are starting to explore the applications space, which marries quantum computing with the specific application, be it pharmaceuticals, finance, battery development, chemical engineering and many more. On one hand, experts in those fields will be identifying the computational challenges they face, on the other quantum computing experts will be developing algorithms targeted to solving those challenges.\nSo, where should\nyou\nbegin?\nI’ve separated resources according to their level of detail and level of math, conscious especially of the fact that math is not a language that everyone is accustomed to.\nIntroductions to quantum computing\nNo maths\nLet’s begin with some\nshort videos\n:\nQuantum computers explained by Kurtzgesagt\nhttps://www.youtube.com/watch?v=JhHMJCUmq28&t=4s\nThe map of quantum computing by D. Walliman:\nhttps://www.youtube.com/watch?v=-UlxHPIEVqA\nA beginner’s guide to quantum computing by S. Ghose:\nhttps://www.youtube.com/watch?v=QuR969uMICM&t=101s\nQuantum computing on 5 levels of difficulty by IBM:\nhttps://www.youtube.com/watch?v=OWJCfOvochA\nA Ted-Ed video I scripted a while ago:\nhttps://www.ted.com/talks/chiara_decaroli_the_high_stakes_race_to_make_quantum_computers_work\nAnd popular science books:\nQuantum Theory cannot hurt you:\nhttps://www.goodreads.com/book/show/2330343.Quantum_Theory_Cannot_Hurt_You\nHow to teach quantum physics to your dog:\nhttps://www.goodreads.com/book/show/8243716-how-to-teach-quantum-physics-to-your-dog\nAnd what about learning while playing?\nhttps://qplaylearn.com/\n: fantastic free resources (including games, videos and short explainers) developed by quantum computing researchers\nQuantum Games and Interactive Tools for Quantum Technologies Outreach and Education: this paper\nhttps://arxiv.org/abs/2202.07756\n(2022) is a survey of all the great quantum games out there, beware, you’ll definitely get stuck into them! (My personal favourite is the quantum game with photons, which I helped develop (therefore I am biased):\nhttps://play.quantumgame.io/\n)\nOf course, there are also plenty of articles, if you’d rather read up on it, such as:\nhttps://www.newscientist.com/question/what-is-a-quantum-computer/\nhttps://www.t",
+            "image": {
+              "url": "https://www.nqcc.ac.uk/wp-content/uploads/2023/08/1_Gti7a4HvRsJJqgHSd4f2nw.webp",
+              "alt": "Featured image",
+              "source": "meta"
+            },
+            "status": "success",
+            "error": "",
+            "source": "bs4"
+          },
+          {
+            "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+            "title": "So You Want to Learn Quantum Computing? Here's How. | Built In",
+            "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+            "position": 5,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com",
+            "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+            "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+            "image_source": "Q-CTRL",
+            "content": "UPDATED BY\nAbel Rodriguez\n| May 23, 2025\nSummary:\nQuantum computing is advancing rapidly, with companies like IBM and Google developing cloud-accessible systems. Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.\nmore\nQuantum computing is advancing rapidly, with companies like IBM and Google developing cloud-accessible systems. Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.\nQuantum computing is growing — in academia, but also commercially. Companies like IBM, Google and Microsoft are\nracing to build\nthe first fully-functioning quantum computer. In the past few years we’ve witnessed rapid development in quantum computing, on the hardware and software sides.\nCurrently, (very faulty) quantum computers\nactually exist\n. You can access them through the cloud and use them to execute codes written in Python or other programming languages. Making quantum computers\navailable online\nto anyone encourages more people to get into the field and see what the hype is all about.\nSo, if you’re curious about quantum computing and its potential to improve many fields including machine learning and artificial intelligence (not to mention the premise that it can solve problems\ncurrent computers fail to address\n), keep reading.\nWhat Is Quantum Computing?\nQuantum computing is a computing methodology that uses the power of quantum mechanics, such as superposition and entanglement, to perform faster computations. Accessing this power will allow us to overcome problems the current computer struggles to solve.\nHow to Learn Quantum Computing\nFinding suitable materials can be a hassle when someone tries to get into a new field; after all, the internet is full of good (and not-so-good) resources. In this article, I’ll go through some resources you can use to get started on your quantum computing learning journey. These materials will help you learn how to think about problems through a quantum lens, especially when it comes to quantum hardware, algorithms and circuits.\nHow to Learn Quantum Computing\nQiskit\nQuantum Computing: A Gentle Introduction\nIntroduction to Classical and Quantum Computing\nScience Without the Gobbeldygook\nQuantum Computation and Quantum Information\nQiskit\nIBM is one of the companies putting a lot of effort into building a quantum community; they’re behind the most-used quantum computing Python package,\nQiskit\n.\nQiskit (quantum information science kit) is an open-source Python package that allows you to implement, simulate and run quantum algorithms on IBM’s actual hardware. If you’re looking for an excellent place to start learning everything quantum, look no further than the\nQiskit YouTube channel\nand\ntextbook\n.\nThe\nQiskit channel\ncovers the fundamentals of quantum computing and details  how you can implement these fundamentals using code. The channel is active and they post new content every week.\nIf you’re an absolute beginner to the world of quantum computing, the\nIntroduction to Quantum Computing and Quantum Hardware\nplaylist is the best place to start.\nAlthough the Qiskit YouTube channel goes in-depth about various aspects of quantum computing, some people (myself included) prefer to have written documentation in addition to a video tutorial. Having written content makes it easier to actually practice with the code or solve some exercises. For that, I recommend giving the\nQiskit textbook\na read. Like the YouTube channel, IBM continuously updates the textbook. In fact, IBM is currently working on a new version of an interactive book that will allow you to have a more comprehensive learning experience.\nMore From Sara A. Metwalli\nHow to Write Pseudocode\nQuantum Computing: A Gentle Introduction\nOver the past couple of years, many books have addressed quantum computing and physics but perhaps the easiest one to access is\nQuantum C",
+            "image": {
+              "url": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2022-01/how-to-learn-quantum-computing.png",
+              "alt": "Featured image",
+              "source": "meta"
+            },
+            "status": "success",
+            "error": "",
+            "source": "bs4"
+          },
+          {
+            "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+            "title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+            "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+            "position": 6,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com",
+            "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+            "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+            "image_source": "Physics World",
+            "content": "Learning center\nBeginner foundations\nBeginner foundations\nLearn the basics of quantum technology from the expert team at Q-CTRL.\nBeginner\nBuilding a quantum implementation roadmap with the arrival of Quantum Error Correction\nA simple guide to help IT leaders in enterprise, government, and research understand this technology and build a foundation for the future.\nBuild a foundation for the future\nBeginner\nWhat is quantum control?\nLearn about the history of quantum control and how it accelerates the path to useful quantum technologies, such as quantum computers, firmware, and sensing.\nLearn quantum control\nBeginner\nWhat is quantum physics?\nLearn the fundamentals of quantum physics for developing quantum computers and explore insights into the basic principles driving quantum innovation.\nLearn quantum physics\nBeginner\nWhat is quantum error correction?\nLearn how Quantum error correction can enable the quantum computing revolution and the vital role it plays in the future of large-scale quantum computers.\nLearn quantum error correction\nBeginner\nWhat is quantum firmware?\nQuantum firmware bridges the gap between mathematical abstractions of quantum algorithms and practical physical manipulation of imperfect quantum hardware.\nLearn quantum firmware\nBeginner\nWhat is NISQ computing?\nLearn about the current \"noisy\" era of quantum computing and what it stands to deliver. Uncover what quantum computing in the NISQ era looks like today.\nLearn NISQ computing\nBeginner\nWhat are quantum algorithms?\nLearn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.\nLearn quantum algorithms\nBeginner\nIntroduction to quantum computing\nLearn the foundations and discover the principles for how this technology will power a transformative information age.\nLearn quantum computing\nBeginner\nWhat is quantum sensing?\nLearn how the fragility of quantum hardware lets us detect the undetectable and discover the principles and potential applications for quantum sensing.\nLearn quantum sensing\nNews and updates\nRead the latest company news, quantum research, and product updates from Q-CTRL.\nDocumentation\nLearn how Q-CTRL provides the critical software to help you do more with your hardware.\nResearch\nBackground material and research developed by the Q-CTRL team.\nGlossary\nLearn the most common terms and frequently asked questions in quantum computing and quantum sensing.",
+            "image": {
+              "url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0df/681af165ccfd8c6d414e3ee1_beginner-foundations-meta.webp",
+              "alt": "Featured image",
+              "source": "meta"
+            },
+            "status": "success",
+            "error": "",
+            "source": "bs4"
+          },
+          {
+            "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+            "title": "How can someone learn about quantum computing without ... - Quora",
+            "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+            "position": 7,
+            "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com",
+            "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+            "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+            "image_source": "SpinQ",
+            "content": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+            "image": null,
+            "status": "fallback",
+            "error": "Using Google snippet",
+            "source": "google_fallback"
+          }
+        ],
+        "user_query": "how do I learn qantum tech ?"
+      },
+      "output": {
+        "llm_analysis": {
+          "headline": "Mastering Quantum Technology: A Comprehensive Guide for Beginners",
+          "intro": "Embarking on the journey to learn quantum technology can be both exciting and daunting. This guide is designed to provide you with a clear roadmap and proven strategies to kickstart your quantum learning journey. Whether you are a student, researcher, or professional looking to delve into the world of quantum computing, this comprehensive overview will equip you with the essential knowledge and resources to begin your quantum education.",
+          "sections": [
+            {
+              "title": "Understanding Quantum Computing Fundamentals",
+              "content": "Quantum computing leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computations at an exponential speed compared to classical computers. To grasp the basics of quantum computing, it is essential to have a solid foundation in linear algebra, probability theory, and computer science. Resources like online courses, textbooks, and educational videos can help you build a strong understanding of quantum mechanics and algorithms."
+            },
+            {
+              "title": "Proven Strategies to Learn Quantum Technology",
+              "content": "1. **Education-Grade Quantum Computers**: Hands-on experience with education-grade quantum computers like SpinQ's Gemini and Triangulum Quantum Computers can provide a deeper understanding of quantum systems.\n2. **Quantum Cloud Computing Services**: Platforms offered by companies like IBM and Amazon allow learners to access real quantum machines and run programs, gaining practical experience.\n3. **Quantum Simulation Tools and Software**: Quantum circuit simulators and visualization tools help in designing and testing quantum algorithms without the need for physical quantum hardware."
+            },
+            {
+              "title": "Tailored Learning Paths and Resources",
+              "content": "1. **IBM Quantum Learning**: IBM offers a range of courses covering quantum information, quantum algorithms, quantum error correction, and practical applications of quantum computing.\n2. **Q-CTRL Beginner Foundations**: Explore beginner resources on quantum technology, including quantum control, quantum physics, quantum error correction, and quantum algorithms.\n3. **Online Platforms and Communities**: Platforms like Reddit, Quora, and dedicated quantum computing websites provide a wealth of resources, discussions, and learning paths for beginners without a technical background."
+            }
+          ],
+          "conclusion": "In conclusion, learning quantum technology requires a blend of theoretical knowledge, practical experience, and continuous exploration. By leveraging a combination of educational resources, hands-on tools, and community engagement, you can navigate the complex landscape of quantum computing with confidence. Remember, quantum technology is a rapidly evolving field, and staying curious and adaptable will be key to mastering this cutting-edge technology.",
+          "cover_image": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+          "references": [
+            {
+              "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+              "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+              "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+              "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com"
+            },
+            {
+              "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+              "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+              "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+              "image_title": "How to learn quantum computing? Here's some ideas!   ",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com"
+            },
+            {
+              "url": "https://quantum.cloud.ibm.com/learning",
+              "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+              "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+              "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com"
+            },
+            {
+              "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+              "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+              "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+              "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk"
+            },
+            {
+              "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+              "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+              "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+              "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com"
+            },
+            {
+              "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+              "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+              "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+              "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com"
+            },
+            {
+              "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+              "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+              "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+              "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com"
+            }
+          ]
+        },
+        "llm_status": "success",
+        "model_used": "gpt-35-turbo"
+      },
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "70ee0b05-1519-4666-9aa9-9d65764970ba_0",
+      "start_time": "2025-07-09T00:14:46.807219Z",
+      "end_time": "2025-07-09T00:15:04.137991Z",
+      "index": 0,
+      "api_calls": [],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "duration": 17.330772
+      },
+      "result": {
+        "llm_analysis": {
+          "headline": "Mastering Quantum Technology: A Comprehensive Guide for Beginners",
+          "intro": "Embarking on the journey to learn quantum technology can be both exciting and daunting. This guide is designed to provide you with a clear roadmap and proven strategies to kickstart your quantum learning journey. Whether you are a student, researcher, or professional looking to delve into the world of quantum computing, this comprehensive overview will equip you with the essential knowledge and resources to begin your quantum education.",
+          "sections": [
+            {
+              "title": "Understanding Quantum Computing Fundamentals",
+              "content": "Quantum computing leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computations at an exponential speed compared to classical computers. To grasp the basics of quantum computing, it is essential to have a solid foundation in linear algebra, probability theory, and computer science. Resources like online courses, textbooks, and educational videos can help you build a strong understanding of quantum mechanics and algorithms."
+            },
+            {
+              "title": "Proven Strategies to Learn Quantum Technology",
+              "content": "1. **Education-Grade Quantum Computers**: Hands-on experience with education-grade quantum computers like SpinQ's Gemini and Triangulum Quantum Computers can provide a deeper understanding of quantum systems.\n2. **Quantum Cloud Computing Services**: Platforms offered by companies like IBM and Amazon allow learners to access real quantum machines and run programs, gaining practical experience.\n3. **Quantum Simulation Tools and Software**: Quantum circuit simulators and visualization tools help in designing and testing quantum algorithms without the need for physical quantum hardware."
+            },
+            {
+              "title": "Tailored Learning Paths and Resources",
+              "content": "1. **IBM Quantum Learning**: IBM offers a range of courses covering quantum information, quantum algorithms, quantum error correction, and practical applications of quantum computing.\n2. **Q-CTRL Beginner Foundations**: Explore beginner resources on quantum technology, including quantum control, quantum physics, quantum error correction, and quantum algorithms.\n3. **Online Platforms and Communities**: Platforms like Reddit, Quora, and dedicated quantum computing websites provide a wealth of resources, discussions, and learning paths for beginners without a technical background."
+            }
+          ],
+          "conclusion": "In conclusion, learning quantum technology requires a blend of theoretical knowledge, practical experience, and continuous exploration. By leveraging a combination of educational resources, hands-on tools, and community engagement, you can navigate the complex landscape of quantum computing with confidence. Remember, quantum technology is a rapidly evolving field, and staying curious and adaptable will be key to mastering this cutting-edge technology.",
+          "cover_image": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+          "references": [
+            {
+              "url": "https://www.spinquanta.com/news-detail/learn-quantum-computing-proven-ways-for-beginners20250120032606",
+              "snippet": "Learn quantum computing with expert-recommended learning tools, courses, and textbooks. Master quantum computing from basics to advanced ...",
+              "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341734114Learn-Quantum-Computing-Through-SpinQ-Quantum-Cloud-Computing-Services.png",
+              "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.spinquanta.com"
+            },
+            {
+              "url": "https://www.reddit.com/r/QuantumComputing/comments/v48zs8/quantum_computing_self_study_path/",
+              "snippet": "Quantum computation requires a solid mathematical background. You'll want to focus primarily on having a strong base in linear algebra, probability theory, and ...",
+              "image_url": "https://www.qureca.com/wp-content/uploads/2024/07/best-courses-to-learn-qc.jpg",
+              "image_title": "How to learn quantum computing? Here's some ideas!   ",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.reddit.com"
+            },
+            {
+              "url": "https://quantum.cloud.ibm.com/learning",
+              "snippet": "Kickstart your quantum learning journey with a selection of courses designed to help you learn the basics or explore more focused topics.",
+              "image_url": "https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Main_Header-web-1201.2e16d0ba.fill-1600x500-c100.jpg",
+              "image_title": "Quantum Physics and Quantum Computing - Caltech Science Exchange",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=quantum.cloud.ibm.com"
+            },
+            {
+              "url": "https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/",
+              "snippet": "This article is my attempt at collecting several learning resources available online for learning quantum computing at different levels.",
+              "image_url": "https://researchcentre.army.gov.au/sites/default/files/images/quantum_technology_fig1.png",
+              "image_title": "Quantum Technology: An introduction | Australian Army Research ...",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.nqcc.ac.uk"
+            },
+            {
+              "url": "https://builtin.com/software-engineering-perspectives/how-to-learn-quantum-computing",
+              "snippet": "Beginners can explore the field using tools like Qiskit, educational videos and books that cover quantum mechanics, algorithms and hardware fundamentals.",
+              "image_url": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/67e0f269ffbf42a0254fc39e_beginner-topics-quantum-control-infrastructure-cover_2x.webp",
+              "image_title": "Beginner Foundations of Quantum Technology | Q-CTRL",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=builtin.com"
+            },
+            {
+              "url": "https://q-ctrl.com/learning-center/beginner-foundations",
+              "snippet": "Learn the fundamentals of how to build quantum algorithms for quantum computing - starting with quantum circuits and logic through to how they're measured.",
+              "image_url": "https://physicsworld.com/wp-content/uploads/2021/12/digital-communiction-concept-2051297813-Shutterstock_metamorworks.jpg",
+              "image_title": "How to prepare for a career in the emerging quantum-technology ...",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=q-ctrl.com"
+            },
+            {
+              "url": "https://www.quora.com/How-can-someone-learn-about-quantum-computing-without-a-technical-background",
+              "snippet": "Learning about quantum computing without technical background can be achieved through online courses, books, articles, videos, podcasts, ...",
+              "image_url": "https://static-cdn.spinq.cn/official/articlefile/68801970-37ba-4088-ab83-477face4a822//1737341514484Learn-Quantum-Computing-via-SpinQ-Triangulum-Desktop-Quantum-Computer.jpg",
+              "image_title": "Learn Quantum Computing: 4 Proven Ways for Beginners | SpinQ",
+              "favicon_url": "https://www.google.com/s2/favicons?domain=www.quora.com"
+            }
+          ]
+        },
+        "llm_status": "success",
+        "model_used": "gpt-35-turbo"
+      },
+      "message_format": "basic"
+    }
+  ]
+}
